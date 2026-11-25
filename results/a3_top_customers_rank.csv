@@ -1,0 +1,11 @@
+consumption_rank,customer_id,community,plan_name,household_band,total_kwh,days_with_reading
+1,MG-0188,Isiokpo,Productive Use,6+,1293.4,103
+2,MG-0239,Rumuokoro,Productive Use,6+,1285.0,105
+3,MG-0062,Elele,Productive Use,6+,1267.6,104
+4,MG-0297,Rumuola,Productive Use,6+,1253.9,104
+5,MG-0203,Elele,Productive Use,6+,1205.1,100
+6,MG-0211,Rumuokoro,Productive Use,6+,1204.9,102
+7,MG-0135,Omagwa,Productive Use,6+,1203.6,105
+8,MG-0066,Buguma,Productive Use,6+,1186.0,105
+9,MG-0158,Isiokpo,Productive Use,6+,1185.1,105
+10,MG-0121,Rumuokoro,Productive Use,6+,1172.3,101

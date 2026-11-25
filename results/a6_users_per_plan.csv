@@ -1,0 +1,5 @@
+plan_name,customers,customers_defaulted_to_plan,total_kwh,total_paid_ngn
+Basic,125,4,20339.0,5770500.0
+Standard,86,0,27648.0,9399000.0
+Productive Use,46,0,45762.0,14373000.0
+Business,43,0,26999.0,10618000.0

@@ -1,0 +1,4 @@
+customer_id,community,plan_name,kwh_last_14_days,cost_last_14_days_ngn,last_payment_date,days_since_last_payment
+MG-0280,Buguma,Productive Use,116.6,32636.0,2026-06-12,16
+MG-0080,Buguma,Standard,39.6,11893.0,2026-06-14,14
+MG-0039,Bori,Basic,25.2,6305.0,2026-06-09,19
